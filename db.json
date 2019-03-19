@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "rochafi",
+      "email": "rochafi@mail.com",
+      "password": "satuduatiga"
+    },
+    {
+      "username": "alvin",
+      "email": "alvin@mial.com",
+      "password": "satuduatiga",
+      "id": 2
+    },
+    {
+      "username": "lex",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "username": "Young",
+      "email": "Young@gg.com",
+      "password": "takis",
+      "id": 4
+    },
+    {
+      "username": "Dumb",
+      "email": "Young@gg.com",
+      "password": "takis",
+      "id": 5
+    },
+    {
+      "username": "Broke",
+      "email": "Young@gg.com",
+      "password": "takis",
+      "id": 6
+    },
+    {
+      "username": "Reyhan",
+      "email": "Reyhan@lex.com",
+      "password": "asasas",
+      "id": 7
+    },
+    {
+      "username": "asasasasa",
+      "email": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "username": "something",
+      "email": "as@sd",
+      "password": "sd",
+      "id": 9
+    },
+    {
+      "username": "tes",
+      "email": "tes@gmail.com",
+      "password": "tes",
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "name": "T-Shirt O Neck",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 57000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 1
+    },
+    {
+      "name": "Hoodie Kawakan",
+      "desc": "Best copy in da wolrd",
+      "price": 8998,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 7
+    },
+    {
+      "name": "T-Shirt no Neck",
+      "desc": "Bukan untuk di jual",
+      "price": 15000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 8
+    },
+    {
+      "name": "T-Shirt V Neck",
+      "desc": "Best T-Shirt in town",
+      "price": "27000",
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 9
+    },
+    {
+      "name": "Hoodie Original",
+      "desc": "Best Hoodie in town",
+      "price": "39000",
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 10
+    },
+    {
+      "name": "Airwalk Shoes",
+      "desc": "You can't fly with it",
+      "price": "53000",
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 11
+    },
+    {
+      "name": "Vans Shoes",
+      "desc": "We love skate !",
+      "price": "143000",
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 12
+    },
+    {
+      "name": "Adidas shoes",
+      "desc": "Size no 44",
+      "price": 3000000,
+      "src": "https://static.shop.adidas.co.id/media/catalog/product/cache/2/small_image/230x/9df78eab33525d08d6e5fb8d27136e95/E/E/EE3706_SL_eCom.jpg",
+      "id": 13
+    }
+  ]
+}
